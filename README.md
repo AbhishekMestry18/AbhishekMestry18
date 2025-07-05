@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **Android & MERN stack projects**
 - 🌱 I’m learning **advanced backend systems and AI integrations**
 - 💬 Ask me about **Java, MERN Stack, Android, or Firebase**
-- 📫 Reach me at: **mestryabhishek2002@gmail.com**
+- 📫 Reach me at: **abhishek.r.mestry@gmail.com**
 - ⚡ Fun fact: I love clean UI, scalable code, and debugging 🧩
 
 ---
